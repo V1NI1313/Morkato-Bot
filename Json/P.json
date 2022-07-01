@@ -1,0 +1,350 @@
+{
+  "971803172056219728": {
+    "510948690354110464": {
+      "inv": {},
+      "status": {
+        "xp": 4046,
+        "level": 6,
+        "level_final": 4200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": false
+      }
+    },
+    "898332398939414539": {
+      "inv": {},
+      "status": {
+        "xp": 803,
+        "level": 3,
+        "level_final": 1200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "969968499306950656": {
+      "inv": {},
+      "status": {
+        "xp": 689,
+        "level": 3,
+        "level_final": 1200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "919753606591316058": {
+      "inv": {},
+      "status": {
+        "xp": 61,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "852739939053600829": {
+      "inv": {},
+      "status": {
+        "xp": 950,
+        "level": 3,
+        "level_final": 1200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "891122537394741268": {
+      "inv": {},
+      "status": {
+        "xp": 1136,
+        "level": 3,
+        "level_final": 1200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "973758943044194324": {
+      "inv": {},
+      "status": {
+        "xp": 935,
+        "level": 3,
+        "level_final": 1200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "701503871440388207": {
+      "inv": {},
+      "status": {
+        "xp": 320,
+        "level": 2,
+        "level_final": 600,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "733818317185220632": {
+      "inv": {},
+      "status": {
+        "xp": 136,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "437368827483783178": {
+      "inv": {},
+      "status": {
+        "xp": 634,
+        "level": 3,
+        "level_final": 1200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "963130404204867694": {
+      "inv": {},
+      "status": {
+        "xp": 360,
+        "level": 2,
+        "level_final": 600,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    }
+  },
+  "989974690175000596": {
+    "969968499306950656": {
+      "inv": {},
+      "status": {
+        "xp": 90,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "973758943044194324": {
+      "inv": {},
+      "status": {
+        "xp": 105,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "510948690354110464": {
+      "inv": {},
+      "status": {
+        "xp": 171,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    }
+  },
+  "989925548325208065": {
+    "969968499306950656": {
+      "inv": {},
+      "status": {
+        "xp": 4811,
+        "level": 7,
+        "level_final": 5600,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "891122537394741268": {
+      "inv": {},
+      "status": {
+        "xp": 9984,
+        "level": 10,
+        "level_final": 11000,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": false
+      }
+    },
+    "822585102525136936": {
+      "inv": {},
+      "status": {
+        "xp": 749,
+        "level": 3,
+        "level_final": 1200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "919753606591316058": {
+      "inv": {},
+      "status": {
+        "xp": 63,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "510948690354110464": {
+      "inv": {},
+      "status": {
+        "xp": 175,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    }
+  },
+  "958418015576285194": {
+    "510948690354110464": {
+      "inv": {},
+      "status": {
+        "xp": 819,
+        "level": 3,
+        "level_final": 1200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    }
+  },
+  "977394840717381642": {
+    "988655573388116021": {
+      "inv": {},
+      "status": {
+        "xp": 16,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "879130825050980433": {
+      "inv": {},
+      "status": {
+        "xp": 114,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    },
+    "969968499306950656": {
+      "inv": {},
+      "status": {
+        "xp": 87,
+        "level": 1,
+        "level_final": 200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    }
+  },
+  "975464900665163787": {
+    "969968499306950656": {
+      "inv": {},
+      "status": {
+        "xp": 790,
+        "level": 3,
+        "level_final": 1200,
+        "money": 7500
+      },
+      "config": {
+        "lembrete": {},
+        "baner": "Img/2.png",
+        "noti": true
+      }
+    }
+  }
+}

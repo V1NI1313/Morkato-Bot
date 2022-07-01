@@ -1,0 +1,71 @@
+{
+  "977394840717381642": {
+    "Commaand": {
+      "Embed": {},
+      "Message": {}
+    },
+    "Shop": {},
+    "Settings": {}
+  },
+  "958418015576285194": {
+    "Commaand": {
+      "Embed": {},
+      "Message": {}
+    },
+    "Shop": {},
+    "Settings": {}
+  },
+  "971803172056219728": {
+    "Commaand": {
+      "Embed": {
+        "teste": {
+          "title": "",
+          "description": "None",
+          "image": null,
+          "tumb": null
+        }
+      },
+      "Message": {
+        "": {
+          "config": {
+            "Xp": false,
+            "Money": false,
+            "Task": false,
+            "Item": false
+          },
+          "content": {
+            "Message": {
+              "content": []
+            }
+          }
+        },
+        "gg": {
+          "config": {
+            "Xp": false,
+            "Money": false,
+            "Task": false,
+            "Item": false
+          },
+          "content": {
+            "Message": {
+              "content": [
+                "Teste",
+                "Sla"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Shop": {},
+    "Settings": {}
+  },
+  "971171026702598165": {
+    "Commaand": {
+      "Embed": {},
+      "Message": {}
+    },
+    "Shop": {},
+    "Settings": {}
+  }
+}
